@@ -6,7 +6,7 @@ public class contadorDeGanado {
 	
 	public void contar(){
 		
-		cantidad=cantidad+1;
+		cantidad=cantidad+1; //suma 1
 		
 	}
 	
